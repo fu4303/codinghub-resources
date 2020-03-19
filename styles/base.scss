@@ -1,0 +1,110 @@
+$font-family: 'Source Code Pro', Consolas, Courier;
+
+body {
+  font-family: $font-family;
+  transition: background .2s linear;
+
+  &.dark {
+    background: #010101;
+
+    .theme-switch {
+      color: #fff;
+
+      svg { fill: #fff; }
+    }
+
+    footer {
+      color: #333;
+
+      a {
+        color: #666;
+      }
+    }
+
+    .logo {
+      .symbol {
+        color: #fff;
+      }
+    }
+
+    .source-link {
+      color: #fff;
+      border-color: #333;
+
+      &:hover {
+        color: #1f7df8;
+        border-color: #1f7df8;
+        box-shadow: 0 0 0 5px rgba(29, 161, 242, .2);
+      }
+    }
+  }
+}
+
+.logo {
+  text-align: center;
+  margin-bottom: 80px;
+
+  .symbol {
+    font-size: 3em;
+  }
+
+  .label {
+    text-transform: uppercase;
+    color: #777;
+    font-size: 12px;
+    font-weight: 500;
+  }
+}
+
+.theme-switch {
+  position: fixed;
+  right: 15px;
+  top: 15px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  outline: 0;
+  cursor: pointer;
+  cursor: hand;
+  z-index: 9999;
+  color: #000;
+
+  svg {
+    fill: #000;
+  }
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 13px;
+  color: #ccc;
+  line-height: 1.8em;
+
+  a {
+    color: #999;
+    text-decoration: none;
+  }
+}
+
+.source-link {
+  display: block;
+  text-decoration: none;
+  color: #111;
+  border: 1px #ccc solid;
+  border-radius: 6px;
+  padding: 60px;
+  margin: 10px 0;
+
+  .provider {
+    font-size: 12px;
+    color: #999;
+    margin-top: 15px;
+  }
+
+  &:hover {
+    color: #1f7df8;
+    border-color: #1f7df8;
+    box-shadow: 0 0 0 5px rgba(29, 161, 242, .1);
+  }
+}

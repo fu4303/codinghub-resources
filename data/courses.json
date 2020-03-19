@@ -1,0 +1,47 @@
+[
+  {
+    "title": "JavaScript Courses",
+    "source": "https://www.udemy.com/courses/development/?course_label=6368&price=price-free&sort=popularity",
+    "provider": "Udemy"
+  },
+  {
+    "title": "WordPress Courses",
+    "source": "https://www.udemy.com/courses/development/?course_label=8452&price=price-free&sort=popularity",
+    "provider": "Udemy"
+  },
+  {
+    "title": "CSS Courses",
+    "source": "https://www.udemy.com/courses/development/?course_label=5306&price=price-free&sort=popularity",
+    "provider": "Udemy"
+  },
+  {
+    "title": "HTML Courses",
+    "source": "https://www.udemy.com/courses/development/?course_label=6148&price=price-free&sort=popularity",
+    "provider": "Udemy"
+  },
+  {
+    "title": "Java Courses",
+    "source": "https://www.udemy.com/courses/development/?course_label=6336&price=price-free&sort=popularity",
+    "provider": "Udemy"
+  },
+  {
+    "title": "Swift Courses",
+    "source": "https://www.udemy.com/courses/development/?course_label=7956&price=price-free&sort=popularity",
+    "provider": "Udemy"
+  },
+  {
+    "title": "Python Courses",
+    "source": "https://www.udemy.com/courses/development/?course_label=7380&price=price-free&sort=popularity",
+    "provider": "Udemy"
+  },
+  {
+    "title": "C# Courses",
+    "source": "https://www.udemy.com/courses/development/?course_label=4904&price=price-free&sort=popularity",
+    "provider": "Udemy"
+  },
+  {
+    "title": "Git Courses",
+    "source": "https://www.udemy.com/courses/development/?course_label=5954&price=price-free&sort=popularity",
+    "provider": "Udemy"
+  }
+]
