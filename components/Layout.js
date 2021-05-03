@@ -32,7 +32,7 @@ function Layout({ children }) {
       <Head>
         <link rel="icon" href={FAVICON} />
         <link rel="stylesheet" href="https://use.typekit.net/hxw8tgn.css" />
-        <title>CodingHub Resources</title>
+        <title>CodingHub Resource</title>
       </Head>
 
       <div className="logo">
@@ -49,7 +49,7 @@ function Layout({ children }) {
       </div>
 
       <footer>
-        <a href="https://github.com/fu4303/codinghub-resources" target="_blank">
+        <a href="https://github.com/fu43 03/codinghub-resources" target="_blank">
           <GitHub />
         </a>
         <br />
