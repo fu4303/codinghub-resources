@@ -44,4 +44,14 @@
     "source": "https://www.udemy.com/courses/development/?course_label=5954&price=price-free&sort=popularity",
     "provider": "Udemy"
   }
+  {
+    "title": "GitHub",
+    "source": "https://github.com",
+    "provider": "GitHub"
+  }
+  {
+    "title": "Vercel",
+    "source": "https://vercel.com/fu4303",
+    "provider": "Vercel"
+  }
 ]
