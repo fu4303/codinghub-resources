@@ -30,19 +30,19 @@
     "provider": "Udemy"
   },
   {
-    "title": "Python Courses",
-    "source": "https://www.udemy.com/courses/development/?course_label=7380&price=price-free&sort=popularity",
-    "provider": "Udemy"
+    "title": "Tailwindcss",
+    "source": "https://tailwindcss.com/docs",
+    "provider": "Tailwind"
   },
   {
-    "title": "C# Courses",
-    "source": "https://www.udemy.com/courses/development/?course_label=4904&price=price-free&sort=popularity",
-    "provider": "Udemy"
+    "title": "React",
+    "source": "https://reactjs.org",
+    "provider": "React"
   },
   {
-    "title": "Git Courses",
-    "source": "https://www.udemy.com/courses/development/?course_label=5954&price=price-free&sort=popularity",
-    "provider": "Udemy"
+    "title": "Netlify",
+    "source": "https://app.netlify.com/teams/jjsportscards/overview",
+    "provider": "Netlify"
   },
   {
     "title": "GitHub",
