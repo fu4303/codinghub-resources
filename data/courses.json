@@ -2,56 +2,67 @@
   {
     "title": "JavaScript Courses",
     "source": "https://www.udemy.com/courses/development/?course_label=6368&price=price-free&sort=popularity",
-    "provider": "Udemy"
+    "provider": "Udemy",
+    "tags": "Tutorial"
   },
   {
     "title": "WordPress Courses",
     "source": "https://www.udemy.com/courses/development/?course_label=8452&price=price-free&sort=popularity",
-    "provider": "Udemy"
+    "provider": "Udemy",
+    "tags": "Tutorial"
   },
   {
     "title": "CSS Courses",
     "source": "https://www.udemy.com/courses/development/?course_label=5306&price=price-free&sort=popularity",
-    "provider": "Udemy"
+    "provider": "Udemy",
+    "tags": "Tutorial"
   },
   {
     "title": "HTML Courses",
     "source": "https://www.udemy.com/courses/development/?course_label=6148&price=price-free&sort=popularity",
-    "provider": "Udemy"
+    "provider": "Udemy",
+    "tags": "Tutorial"
   },
   {
     "title": "Java Courses",
     "source": "https://www.udemy.com/courses/development/?course_label=6336&price=price-free&sort=popularity",
-    "provider": "Udemy"
+    "provider": "Udemy",
+    "tags": "Tutorial"
   },
   {
     "title": "Swift Courses",
     "source": "https://www.udemy.com/courses/development/?course_label=7956&price=price-free&sort=popularity",
-    "provider": "Udemy"
+    "provider": "Udemy",
+    "tags": "Tutorial"
   },
   {
     "title": "Tailwindcss",
     "source": "https://tailwindcss.com/docs",
-    "provider": "Tailwind"
+    "provider": "Tailwindcss",
+    "tags": "CSS"
   },
   {
     "title": "React",
     "source": "https://reactjs.org",
-    "provider": "React"
+    "provider": "React",
+    "tags": "javascript"
   },
   {
     "title": "Netlify",
     "source": "https://app.netlify.com/teams/jjsportscards/overview",
-    "provider": "Netlify"
+    "provider": "Netlify",
+    "tags": "SSR"
   },
   {
     "title": "GitHub",
     "source": "https://github.com",
-    "provider": "GitHub"
+    "provider": "GitHub",
+    "tags": "Code"
   },
   {
     "title": "Vercel",
     "source": "https://vercel.com/fu4303",
-    "provider": "Vercel"
+    "provider": "Vercel",
+    "tags": "SSR"
   }
 ]
