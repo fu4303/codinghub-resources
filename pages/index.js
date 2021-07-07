@@ -9,13 +9,16 @@ function Homepage() {
     <Layout>
       <Grid>
         <Row>
-          {data.map(({ title, source, provider }) => (
+          {data.map(({ title, source, provider, tags }) => (
             <Col md={4}>
               <a href={source} target="_blank" className="source-link">
                 {title}
 
                 <div className="provider">
                   {provider}
+                </div>
+                <div className="tags">
+                  {tags}
                 </div>
               </a>
             </Col>
