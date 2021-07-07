@@ -49,11 +49,11 @@ function Layout({ children }) {
       </div>
 
       <footer>
-        <a href="https://github.com/fu43 03/codinghub-resources" target="_blank">
+        <a href="https://github.com/fu4303/codinghub-resources" target="_blank">
           <GitHub />
         </a>
         <br />
-        Created by <a href="https://twitter.com/telmo" target="_blank">@fu4303</a>
+        Created by <a href="https://twitter.com/Alec4354478" target="_blank">@Alec4354478</a>
       </footer>
     </div>
   )
